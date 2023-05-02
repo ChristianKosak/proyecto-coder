@@ -60,3 +60,17 @@ box-sizing: 0;
     margin-top: 20px;
     color: #7a7a7a;
 }
+
+
+.h3{
+    text-align: center;
+}
+
+.container-img{
+    display: grid;
+    grid-template-columns: 250px 250px;
+    grid-template-rows: 250px 250px;
+    grid-auto-rows: 200px;
+    gap: 20px;
+    padding: 20px;
+}
