@@ -74,3 +74,15 @@ box-sizing: 0;
     gap: 20px;
     padding: 20px;
 }
+
+.container{
+    justify-content: center !important;
+    align-self: center !important;
+}
+
+.contenedor-padre{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
